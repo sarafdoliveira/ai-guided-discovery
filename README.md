@@ -6,11 +6,12 @@ Interactive prototype of an AI-assisted discovery flow for Visit.org, a platform
 
 ## What you can try
 
-- Type in the search bar (or pick a suggestion) to start an AI search
-- Watch the loading state, then browse the matched results
-- Open an experience to see its full details in a side sheet
-- Bookmark experiences and view them under **Saved**
-- Revisit earlier searches under **Search history**
+- Search from the Discover page, or try **"Food packing event in Bellevue"**
+- Watch the loading state, then browse results ranked by match
+- Refine in the chat (e.g. "budget under $600" or "for 50 people")
+- Type **@** in the chat to mention an experience and find similar ones
+- Turn on **Compare**, pick 2 or 3 experiences and see them side by side
+- Open an experience for full details, and bookmark it under **Saved**
 
 Deep links: `?screen=results` opens the results, and `?screen=results&card=r1` opens the results with the first experience's details showing.
 
